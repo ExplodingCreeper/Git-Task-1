@@ -1,1 +1,1 @@
-Hello my name is Arjun S. I am in CSE Cyber Security batch trying to join bi0s for wonderful opportunities
+# About Me\n\nMy name is Arjun S. I am a passionate programmer from cse cyber security branch.
